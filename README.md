@@ -38,7 +38,7 @@ Grab the latest installer from [Releases](../../releases).
 
 ## Free vs Pro
 
-Lumitag is free for 200 photos. All models, all modes, no restrictions — just a limit on how many photos you can process.
+Lumitag is free for 100 photos. All models, all modes, no restrictions — just a limit on how many photos you can process.
 
 Need more? **Lumitag Pro** removes the limit entirely. One-time purchase, no subscription.
 
