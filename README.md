@@ -26,7 +26,10 @@ Times are for CPU. GPU (NVIDIA) is 3-5× faster.
 
 ## Screenshots
 
-*(screenshots go here)*
+![Main screen](screenshots/main.png)
+![Preview with AI tags](screenshots/grid.png)
+![Tag detail view](screenshots/detail.png)
+![Settings](screenshots/settings.png)
 
 ## Download
 
