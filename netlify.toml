@@ -1,0 +1,6 @@
+﻿[build]
+  base = "landing"
+  publish = "landing"
+
+[build.processing]
+  skip_processing = true
