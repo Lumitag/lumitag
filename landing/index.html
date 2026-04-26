@@ -498,7 +498,7 @@
   document.querySelectorAll('[data-paddle-buy]').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
-      Paddle.Checkout.open({ items: [{ priceId: 'pri_01kq3d6jd4k39s1majt7epdppj', quantity: 1 }] });
+      Paddle.Checkout.open({ items: [{ priceId: 'pri_01kq3d6jd4k39s1majt7epdppj', quantity: 1 }], discountId: 'dsc_01kq3d94wbwt0t7qe4w4r7rz3x' });
     });
   });
 </script>
