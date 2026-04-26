@@ -26,10 +26,7 @@ Times are for CPU. GPU (NVIDIA) is 3-5× faster.
 
 ## Screenshots
 
-![Main screen](screenshots/main.png)
-![Preview with AI tags](screenshots/grid.png)
-![Tag detail view](screenshots/detail.png)
-![Settings](screenshots/settings.png)
+See screenshots and more at **[lumitag.app](https://lumitag.app)**
 
 ## Download
 
@@ -45,8 +42,7 @@ Lumitag is free for 100 photos. All models, all modes, no restrictions — just 
 
 Need more? **Lumitag Pro** removes the limit entirely. One-time purchase, no subscription.
 
-<!-- Paddle checkout link coming soon -->
-**[Buy Lumitag Pro →](https://github.com/Lumitag/lumitag/issues)** *(purchase link coming soon — star the repo to get notified)*
+**[Buy Lumitag Pro → lumitag.app](https://lumitag.app#pricing)**
 
 ## Installation guide
 
