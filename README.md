@@ -26,7 +26,7 @@ Times are for CPU. GPU (NVIDIA) is 3-5× faster.
 
 ## Screenshots
 
-See screenshots and more at **[lumitag.app](https://lumitag.app)**
+See screenshots and more at **[lumitag.netlify.app](https://lumitag.netlify.app)**
 
 ## Download
 
@@ -42,7 +42,7 @@ Lumitag is free for 100 photos. All models, all modes, no restrictions — just 
 
 Need more? **Lumitag Pro** removes the limit entirely. One-time purchase, no subscription.
 
-**[Buy Lumitag Pro → lumitag.app](https://lumitag.app#pricing)**
+**[Buy Lumitag Pro → lumitag.netlify.app](https://lumitag.netlify.app/#pricing)**
 
 ## Installation guide
 
@@ -56,7 +56,7 @@ See [INSTALL.md](INSTALL.md) for step-by-step instructions, including the SmartS
 
 ## Models
 
-Lumitag uses these open-source AI models (downloaded on first run, ~2 GB total):
+Lumitag uses these open-source AI models (downloaded on first use):
 
 - **SigLIP** — scene classification (Apache 2.0)
 - **RT-DETR** — object detection (Apache 2.0)
