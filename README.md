@@ -52,7 +52,7 @@ See [INSTALL.md](INSTALL.md) for step-by-step instructions, including the SmartS
 
 **Found a bug?** [Open an issue](../../issues) — include the log file from `%LOCALAPPDATA%\Lumitag\logs\`.
 
-**Question or feedback?** lumitag.app@proton.me
+**Question or feedback?** lumitag.support@gmail.com
 
 ## Models
 
