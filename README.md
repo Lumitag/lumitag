@@ -11,7 +11,8 @@ Lumitag runs multiple AI models locally on your machine — no cloud, no uploads
 - **Image captioning** — natural language descriptions written to EXIF
 - **Content tagging** — thousands of visual tags from anime-trained models (surprisingly good on real photos)
 - **OCR** — reads text in photos (signs, documents, receipts)
-- **Translation** — tags in English, Polish, German, French, Spanish, and 6 more languages
+- **Batch tag editing** — select multiple photos, add or remove tags in bulk
+- **Smart translation** — 57,000-word dictionary + contextual AI for accurate multi-language tags (English, Polish, German, French, Spanish, Italian, Portuguese, Dutch, and Russian)
 
 ## Tagging modes
 
@@ -58,7 +59,7 @@ See [INSTALL.md](INSTALL.md) for step-by-step instructions, including the SmartS
 
 Lumitag uses these open-source AI models (downloaded on first use):
 
-- **SigLIP** — scene classification (Apache 2.0)
+- **SigLIP2** — scene classification (Apache 2.0)
 - **RT-DETR** — object detection (Apache 2.0)
 - **WD Tagger** — content tagging (Apache 2.0)
 - **Florence-2** — image captioning (MIT)
